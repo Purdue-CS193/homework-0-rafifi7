@@ -1,10 +1,10 @@
 # Rafee Adnan's First CS193 Homework
 
 Favorite Things about CS 193
--Jokes
--No professor
--TA's are chill
--Homework isn't hard yet
+- Jokes
+- No professor
+- TA's are chill
+- Homework isn't hard yet
 
 ## Welcome to GitHub Pages
 
